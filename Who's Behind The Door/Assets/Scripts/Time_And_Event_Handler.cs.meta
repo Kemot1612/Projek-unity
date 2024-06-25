@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d2881f12751144f4abe7f32f4ca64f1d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Document_1: {fileID: 8367953913192542996, guid: df1053eb99c936e42af634c748ee37c4, type: 3}
+  - Tenant_1: {fileID: 336933762957802661, guid: 66d2c1ecae4c11f42bbe22c2bcde52ba, type: 3}
+  - DocumentSpawnPoint: {instanceID: 0}
+  - TenantSpawnPoint: {instanceID: 0}
+  - hoursText: {instanceID: 0}
+  - minutesText: {instanceID: 0}
+  - daysText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

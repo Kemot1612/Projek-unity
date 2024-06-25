@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2f2161d82a664c749a92175f40fa3bf4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Pulpit: {fileID: 2010776268067514233, guid: ed0fedc754061eb4f80ebfca2c4afd76, type: 3}
+  - ExitButton: {fileID: 921290461581971311, guid: 26937719d9037e343994e545e1254caa, type: 3}
+  - MailTab: {fileID: 4359015934859635703, guid: b53f3687081147041b631fbe31c7e678, type: 3}
+  - NotepadTab: {fileID: 307000013858050471, guid: c8902094d0822844b99fe3e3f170a0a5, type: 3}
+  - Mailicon: {fileID: 5048317231219935735, guid: 2e463b13dc775b042b47360ca922fbab, type: 3}
+  - NotepadIcon: {fileID: 3350912327136133574, guid: 57495713748efa54a89a4849c6d403ef, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
